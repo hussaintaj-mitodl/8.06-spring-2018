@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/8-06-quantum-physics-iii-spring-2018/f02fc1fbb74c59b9a8bcacb30c682f48_MtK9rIbdlis.vtt
+file: /courses/8-06-quantum-physics-iii-spring-2018/f02fc1fbb74c59b9a8bcacb30c682f48_MtK9rIbdlis.vtt
 file_size: 12616
 file_type: application/x-subrip
 learning_resource_types: []
